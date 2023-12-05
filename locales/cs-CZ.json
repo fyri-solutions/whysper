@@ -48,7 +48,7 @@
   },
   "app_desc_short": "Elk - hbitý webklient pro Mastodon.",
   "app_logo": "logo Elk",
-  "app_name": "Elk",
+  "app_name": "Whysper",
   "command": {
     "activate": "Aktivovat",
     "complete": "Dokončit",
@@ -124,6 +124,7 @@
     "select_language": "Vybrat jazyk",
     "show_intro": "Zobrazit více informací o aplikaci",
     "toggle_theme": "Přepnout vzhled",
+    "watches": "Watches",
     "zen_mode": "Tichý režim"
   },
   "notification": {

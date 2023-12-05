@@ -44,9 +44,9 @@ ENV NODE_ENV=production
 
 COPY --from=builder /elk/.output ./.output
 
-EXPOSE 5314/tcp
+EXPOSE 6060/tcp
 
-ENV PORT=5314
+ENV PORT=6060
 
 # Specify container only environment variables ( can be overwritten by runtime env )
 ENV NUXT_STORAGE_FS_BASE='/elk/data'

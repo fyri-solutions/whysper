@@ -78,7 +78,7 @@
   },
   "app_desc_short": "A nimble Mastodon web client",
   "app_logo": "Elk Logo",
-  "app_name": "Elk",
+  "app_name": "Whysper",
   "attachment": {
     "edit_title": "Description",
     "remove_label": "Remove attachment"
@@ -291,6 +291,7 @@
     "settings": "Settings",
     "show_intro": "Show intro",
     "toggle_theme": "Toggle Theme",
+    "watches": "Watches",
     "zen_mode": "Zen Mode"
   },
   "notification": {

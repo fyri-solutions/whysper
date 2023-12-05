@@ -76,7 +76,7 @@
   },
   "app_desc_short": "Isang mabilis na web client ng Mastodon",
   "app_logo": "Logo ng Elk",
-  "app_name": "Elk",
+  "app_name": "Whysper",
   "attachment": {
     "edit_title": "Paglalarawan",
     "remove_label": "Tanggalin ang attachment"
@@ -285,6 +285,7 @@
     "settings": "Mga Setting",
     "show_intro": "Ipakita ang Intro",
     "toggle_theme": "Magpapalit ng Tema",
+    "watches": "Watches",
     "zen_mode": "Zen Mode"
   },
   "notification": {

@@ -77,7 +77,7 @@
   },
   "app_desc_short": "軽快なMastodonウェブクライアント",
   "app_logo": "Elkのロゴ",
-  "app_name": "Elk",
+  "app_name": "Whysper",
   "attachment": {
     "edit_title": "説明文",
     "remove_label": "添付を削除"
@@ -288,6 +288,7 @@
     "settings": "設定",
     "show_intro": "イントロを表示",
     "toggle_theme": "テーマを切り替え",
+    "watches": "時計",
     "zen_mode": "禅モード"
   },
   "notification": {

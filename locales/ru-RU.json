@@ -77,7 +77,7 @@
   },
   "app_desc_short": "Открытый веб-клиент для Mastodon",
   "app_logo": "Логотип Elk",
-  "app_name": "Elk",
+  "app_name": "Whysper",
   "attachment": {
     "edit_title": "Описание",
     "remove_label": "Удалить файл"
@@ -290,6 +290,7 @@
     "settings": "Настройки",
     "show_intro": "Показать интро",
     "toggle_theme": "Переключить тему",
+    "watches": "часы",
     "zen_mode": "Режим \"Дзен\""
   },
   "notification": {

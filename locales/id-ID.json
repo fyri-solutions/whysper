@@ -73,7 +73,7 @@
   },
   "app_desc_short": "Klien web Mastodon yang gesit",
   "app_logo": "Logo Elk",
-  "app_name": "Elk",
+  "app_name": "Whysper",
   "attachment": {
     "edit_title": "Deskripsi",
     "remove_label": "Hapus lampiran"
@@ -220,6 +220,7 @@
     "settings": "Pengaturan",
     "show_intro": "Tampilkan pengantar",
     "toggle_theme": "Beralih Tema",
+    "watches": "Watches",
     "zen_mode": "Modus Zen"
   },
   "notification": {

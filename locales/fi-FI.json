@@ -73,7 +73,7 @@
   },
   "app_desc_short": "Ketterä web-sovellus Mastodonille",
   "app_logo": "Elk logo",
-  "app_name": "Elk",
+  "app_name": "Whysper",
   "attachment": {
     "edit_title": "Kuvaus",
     "remove_label": "Poista liite"
@@ -222,6 +222,7 @@
     "settings": "Asetukset",
     "show_intro": "Näytä intro",
     "toggle_theme": "Vaihda tumma/vaalea",
+    "watches": "Watches",
     "zen_mode": "Zen-tila"
   },
   "notification": {

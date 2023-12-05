@@ -75,7 +75,7 @@
   },
   "app_desc_short": "Un client web àgil Mastodon",
   "app_logo": "Logotip d'Elk",
-  "app_name": "Elk",
+  "app_name": "Whysper",
   "attachment": {
     "edit_title": "Descripció",
     "remove_label": "Elimina el fitxer adjunt"
@@ -255,6 +255,7 @@
     "settings": "Configuració",
     "show_intro": "Mostra la introducció",
     "toggle_theme": "Canvia el tema",
+    "watches": "Notificacions",
     "zen_mode": "Mode Zen"
   },
   "notification": {

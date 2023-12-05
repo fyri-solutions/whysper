@@ -76,7 +76,7 @@
   },
   "app_desc_short": "منصة تواصل ماستودون رشيقة",
   "app_logo": "Elk شعار",
-  "app_name": "Elk",
+  "app_name": "Whysper",
   "attachment": {
     "edit_title": "وصف",
     "remove_label": "قم بإزالة المرفق"
@@ -286,6 +286,7 @@
     "settings": "الإعدادات",
     "show_intro": "عرض المقدمة",
     "toggle_theme": "تغيير الوضع",
+    "watches": "ساعات",
     "zen_mode": "الوضع الهادئ"
   },
   "notification": {

@@ -68,7 +68,7 @@
   },
   "app_desc_short": "Спритний веб-клієнт для Mastodon",
   "app_logo": "Elk лого",
-  "app_name": "Elk",
+  "app_name": "Whysper",
   "attachment": {
     "edit_title": "Опис",
     "remove_label": "Видалити вкладення"
@@ -179,6 +179,7 @@
     "settings": "Налаштування",
     "show_intro": "Показати інтро",
     "toggle_theme": "Змінити тему",
+    "watches": "годинник",
     "zen_mode": "Zen-режим"
   },
   "notification": {

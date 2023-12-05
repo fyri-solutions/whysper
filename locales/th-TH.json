@@ -76,7 +76,7 @@
   },
   "app_desc_short": "เว็บหน้าบ้านมาสโตดอนที่ปราดเปรียว",
   "app_logo": "โลโก้ Elk",
-  "app_name": "Elk",
+  "app_name": "Whysper",
   "attachment": {
     "edit_title": "อธิบาย",
     "remove_label": "เอาสิ่งแนบออก"
@@ -287,6 +287,7 @@
     "settings": "การตั้งค่า",
     "show_intro": "แสดงบทนำ",
     "toggle_theme": "สลับธีม",
+    "watches": "นาฬิกา",
     "zen_mode": "โหมดเซ็น"
   },
   "notification": {

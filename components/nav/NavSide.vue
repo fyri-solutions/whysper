@@ -12,6 +12,7 @@ const useStarFavoriteIcon = usePreferences('useStarFavoriteIcon')
 
     <div class="spacer" shrink xl:hidden />
     <NavSideItem :text="$t('nav.home')" to="/home" icon="i-ri:home-5-line" user-only :command="command" />
+    <NavSideItem :text="$t('nav.watches')" :to="isHydrated ? `/${currentServer}/watches` : '/watches'" icon="i-ri:timer-flash-line" user-only :command="command" />
     <NavSideItem :text="$t('nav.notifications')" to="/notifications" icon="i-ri:notification-4-line" user-only :command="command">
       <template #icon>
         <div flex relative>

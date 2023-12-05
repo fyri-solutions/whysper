@@ -9,4 +9,4 @@ services:
       # e.q. mkdir ./elk-storage; sudo chown 911:911 ./elk-storage
       - './elk-storage:/elk/data'
     ports:
-      - 5314:5314
+      - 6060:6060

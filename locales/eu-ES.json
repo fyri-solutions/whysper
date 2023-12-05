@@ -77,7 +77,7 @@
   },
   "app_desc_short": "Mastodon web-bezero arin bat",
   "app_logo": "Elk-en logoa",
-  "app_name": "Elk",
+  "app_name": "Whysper",
   "attachment": {
     "edit_title": "Deskribapena",
     "remove_label": "Kendu erantsitakoak"
@@ -290,6 +290,7 @@
     "settings": "Ezarpenak",
     "show_intro": "Erakutsi aurkezpena",
     "toggle_theme": "Gai argia/iluna",
+    "watches": "Watches",
     "zen_mode": "ZEN modua"
   },
   "notification": {
